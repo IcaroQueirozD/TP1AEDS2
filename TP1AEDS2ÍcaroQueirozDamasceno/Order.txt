@@ -1,0 +1,23 @@
+Merge Sort - ../ListaAleatoria-1000.txt:
+
+
+Time to order the array: 0.001
+Comparisons to order the array: 8675
+Movements to order the array: 11277
+
+-----------------------------------------------------
+Bubble Sort - ../ListaAleatoria-10000.txt:
+
+
+Time to order the array: 0.522
+Comparisons to order the array: 49963875
+Movements to order the array: 24691294
+
+-----------------------------------------------------
+Selection Sort - ../ListaOrdenada-1000.txt:
+
+
+Time to order the array: 0.008
+Comparisons to order the array: 499500
+Movements to order the array: 999
+-----------------------------------------------------
